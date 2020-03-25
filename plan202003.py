@@ -1,8 +1,9 @@
 """
-2020/3/24-3/29: 
-24, 25, 26, 27, 28, 29
+2020/3/24-3/31: 
+24, 25, 26, 27, 28, 29, 30, 31
 1.Python Machine Learning 2nd Edition
 2.百面机器学习
+3.Pattern Recognition and Machine Learning  page 1-100
 
 
 
@@ -20,5 +21,7 @@
 2.Python Machine Learning 2nd Edition, page 87-250
 实际完成:
 3.百面机器学习， page 14-80
+实际完成:
+4.Pattern Recognition and Machine Learning page 1-20
 实际完成:
 """
