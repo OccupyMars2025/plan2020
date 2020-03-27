@@ -36,4 +36,11 @@
 4.Pattern Recognition and Machine Learning,  page 6-40
 实际完成: 
 
+
+2020/3/27, Friday:  第 4 天
+1.高抬腿 600 个， pull-up 200, push-up 500, 臂力器 500
+实际完成：高抬腿 300 个， pull-up 100, push-up 100, 臂力器 0
+2.百面机器学习， page 44-150
+实际完成: 
+
 """
